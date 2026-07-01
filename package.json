@@ -1,0 +1,28 @@
+{
+  "name": "mrlogo-ai-ai-logo-generator",
+  "version": "1.0.0",
+  "description": "AI Logo Generator creates stunning logos with AI, downloadable as high-quality PNG and SVG",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-logo-generator",
+    "logo-generator",
+    "ai",
+    "logo",
+    "branding",
+    "design",
+    "svg",
+    "png",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "MrLogo",
+  "license": "ISC",
+  "homepage": "https://mrlogo.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlogo-ai/ai-logo-generator.git"
+  }
+}
